@@ -1,0 +1,8 @@
+### folders ###
+/.idea/
+/.composer/
+/docker/mysql/
+### files ###
+.bash_history
+.env
+.env.local
